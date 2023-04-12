@@ -1,0 +1,449 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Sven Pettersson",
+    "label": "Senior Python/Django developer + Android Developer",
+    "image": "",
+    "email": "sven.pettersson@scomas.se",
+    "phone": "+46 736936968",
+    "url": "",
+    "summary": "Senior developer with focus in Django/Python/Android/GAE/AWS/Flask. I have a history of working with startups and larger companies around Stockholm. Predominantly mobile apps and backend in Mobile Payments and Fintech. Even though I'm an experienced developer I still love the feeling of seeing the code I was part of dreaming actually working.",
+    "location": {
+      "countryCode": "US",
+      "address": "Sweden"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sven-pettersson-64b89449",
+        "url": "https://www.linkedin.com/in/sven-pettersson-64b89449/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Hemma",
+      "position": "System Developer",
+      "startDate": "2022-04-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Employed as Senior Backend Developer. Working primarily with connecting Hemma infrastructure to EDIEL to fetch customers energy consumption. This is done through a Edifact interface with consumers implemented in Python.",
+      "url": "https://www.linkedin.com/company/hemmaenergyefficiency/",
+      "location": "Stockholm, Stockholm County, Sweden"
+    },
+    {
+      "name": "TRMedia",
+      "position": "System Developer ( Backend)",
+      "startDate": "2020-08-31",
+      "endDate": "2022-04-30",
+      "highlights": [],
+      "summary": "Working as Senior Backend Developer at TR-Media. The main focus is developing new functions and handling support for the backend system connected to the sites that TR-Media publish. Much of the work also involves GCP and handling the cloud platform\n\nThe main techniques I'm working with are: Django, Python, Node, GCP and some Java. Also setting up mass testing with Locust.",
+      "url": "https://www.linkedin.com/company/trmedia/",
+      "location": "Stockholm, Stockholm County, Sweden"
+    },
+    {
+      "name": "Brite",
+      "position": "Android Developer / Backend developer",
+      "startDate": "2019-04-30",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "summary": "When I joined Brite it was newly founded. I had a contract role and was employed at uBit. The work consisted of taking the idea of the founder and creating it into a product. The product enables customers to clients to easily do transactions to and from bank accounts. Much of the work was scraping and implementing the PSD2 API presented by the different banks. I was heavily involved in creating this solution for the Swedish, Finnish and Dutch market. Much of my work was direct development but also mentoring new developers.\n\nThe system used Python/Flask/GCP/Postgres/Node",
+      "url": "https://www.linkedin.com/company/brite-payments/",
+      "location": "Stockholm, Sweden"
+    },
+    {
+      "name": "uBIT",
+      "position": "Backend Consultant",
+      "startDate": "2019-04-30",
+      "endDate": "2020-08-31",
+      "highlights": [],
+      "summary": "I was employed at uBit as a consultant. My contract and placement was at Brite.",
+      "url": "https://www.linkedin.com/company/ubit1/",
+      "location": "Stockhholm"
+    },
+    {
+      "name": "Scomas AB",
+      "position": "Senior Developer",
+      "startDate": "2018-01-31",
+      "endDate": "2019-08-31",
+      "highlights": [],
+      "summary": "Scomas is my own company that I have used as a consultant. I was employes as a consultant at Espresso House to rebuild their Android app from scratch and for handling and shutting down the old backend system.",
+      "url": "",
+      "location": "Stockholm, Stockholm County, Sweden"
+    },
+    {
+      "name": "Espresso House Group (Consultant from Scones ab)",
+      "position": "Android developer / Backend developer ",
+      "startDate": "2018-01-31",
+      "endDate": "2018-11-30",
+      "highlights": [],
+      "summary": "I had the possibility to be part of a team creating a new payment / Loyalty system for Espresso House.I worked primarily with writing the new Android app. As I was the sole Android developer I had the possibility to get in all parts of the android app. As I had worked with the previous backend part of my work was also to support and help migrate to the new system.",
+      "url": "https://www.linkedin.com/company/espresso-house/",
+      "location": "Stockholm"
+    },
+    {
+      "name": "LEEROY GROUP AB",
+      "position": "Software Developer",
+      "startDate": "2016-06-30",
+      "endDate": "2018-02-28",
+      "highlights": [],
+      "summary": "The mobile payment system I worked with at Bambora was sold on to Leeroy, I continued working on this system when I left Leeroy, then as a freelance consultant at Espresso House. I got the opportunity to be part of a small team, two developers and two consultants, to continue working on the system. This ment scaling down and prioritizing the customer and to redevelop the system. The system also lay the foundation of the Restaurant applications that Leeroy created. My role became more of a lead developer. Working mainly on Android but also pitching in where needed and organizing the work.\n\nDuring this period I worked with Python/Django/AWS/Mysql/Android and a lot of work went inte RESTful API development.",
+      "url": "https://www.linkedin.com/company/leeroy/"
+    },
+    {
+      "name": "Bambora",
+      "position": "Backend developer / Test manager / Quality Assurance",
+      "startDate": "2014-12-31",
+      "endDate": "2016-06-30",
+      "highlights": [],
+      "summary": "Django / AWS / Mysql developer. I was hired by the company MobiVending which was merged with several other companies to create Bambora. The main product was a mobile payment system implemented and at a Uppsala Länstrafik, Selecta vending machines and Espresso House. The system was developed in Python/Django and deployed on AWS. I continued working on this system on Leeroy.\n\nDuring this period I worked with Django/ Python/ Docker/AWS/Mysql",
+      "url": "https://www.linkedin.com/company/bambora/",
+      "location": "Stockholm, Stockholm County, Sweden"
+    },
+    {
+      "name": "MSC Konsult AB",
+      "position": "IT Consultant",
+      "startDate": "2014-09-30",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "IT-consultant with competence in Java, Android, PHP and C++.",
+      "url": "https://www.linkedin.com/company/msc/"
+    },
+    {
+      "name": "Zamsos",
+      "position": "IT-Developer",
+      "startDate": "2009-12-31",
+      "endDate": "2014-05-31",
+      "highlights": [],
+      "summary": "I was part of a small team developing a mobile payment app. This included developing Android and iOS apps, developing a QR-Code reader to be connected to the Point of sale and creating the backend system I Java. I used a number of different tools during my employment. Among others Android, Iphone, Php, Java and c++. At the same time I was responsible for the Software that the company developed, Zaci. Zaci connected the POS to the card terminal. It also was used as a solution for collecting sales data. The system was in place at H&M, Hemköp and Systembolaget among others.",
+      "url": ""
+    },
+    {
+      "name": "Graz Advantage",
+      "position": "Developer / Consultant",
+      "startDate": "2008-10-31",
+      "endDate": "2009-03-31",
+      "highlights": [],
+      "summary": "Develop depository for ﬁnancial securities in the Java Environment\nDevelop unit tests for a large data warehouse systems focused on the ﬁnancial\nmarket",
+      "url": ""
+    },
+    {
+      "name": "Pfizer",
+      "position": "Assept technician",
+      "startDate": "1990-09-30",
+      "endDate": "2007-01-31",
+      "highlights": [],
+      "summary": "Pﬁzer\n• Positions held at Pﬁzer :\n• Process Operator, worked in cleanroom production of pharmaceuticals.\n• Area manager, responsible for training, documentation and operation of inspec-\ntion in production\n• Supervisor, responsible from planning staﬀ and production in my shift, total\napprox. 30 people.",
+      "url": "https://www.linkedin.com/company/pfizer/",
+      "location": "Stockholm, Stockholm County, Sweden"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Stockholm University",
+      "area": "Information Technology",
+      "studyType": "Bachelor's degree",
+      "startDate": "2003-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": [
+        "null - Advanced Issues in Object Orientation",
+        "null - Dynamic programming languages"
+      ]
+    },
+    {
+      "institution": "Brunnsviks FHSK",
+      "area": "Journalism",
+      "studyType": "Bachelor of Science (BS)",
+      "startDate": "1995-12-31",
+      "endDate": "1996-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Programming Mobile Applications for Android Handheld Systems",
+      "issuer": "Coursera Verified Certificates",
+      "startDate": "2014-11-30",
+      "url": "https://www.coursera.org/account/accomplishments/verify/5LYS6HDW8H"
+    },
+    {
+      "name": "Programming Mobile Applications for Android Handheld Systems",
+      "issuer": "Coursera Verified Certificates",
+      "startDate": "2014-11-30",
+      "url": "https://www.coursera.org/account/accomplishments/verify/5LYS6HDW8H"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Object Oriented Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IT Consulting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PostgreSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Flask",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "switchyard",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Zend Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sun Certified Java Programmer",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Point of Sale (POS) Systems",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django REST Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "zxing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kotlin",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft SQL Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AWS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Objective-C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Active mq",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Rövarspråket",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Open Banking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "GCP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iPhone development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arduino",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Camel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PSD2",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OpenCV",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Google Cloud Platform (GCP)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Methodologies",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JBoss fuse",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "XHTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Subversion",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JBoss Application Server",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "mssql",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Bart",
+      "startDate": "2011-09-30",
+      "summary": "A new way to handle payments with your smart phone.",
+      "url": "https://www.bart.se/"
+    }
+  ]
+}

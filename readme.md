@@ -1,0 +1,1 @@
+A CV app for django the idea is to create a django app that will handle my cv.
